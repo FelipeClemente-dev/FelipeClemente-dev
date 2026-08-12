@@ -30,3 +30,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+
+<p align="center">
+  <img src="metrics.svg" alt="Metrics" />
+</p>
