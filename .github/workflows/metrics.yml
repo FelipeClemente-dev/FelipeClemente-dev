@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           filename: metrics.svg
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           plugin_languages: yes
           plugin_languages_ignored: details, html, css
           plugin_languages_details: bytes-size, percentage, lines
